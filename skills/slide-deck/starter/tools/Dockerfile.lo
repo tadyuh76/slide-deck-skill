@@ -1,0 +1,3 @@
+# deck-lo: LibreOffice Impress, to render the built PowerPoint the way an office suite lays it out (a check, not the deliverable)
+FROM debian:bookworm-slim
+RUN apt-get update && apt-get install -y --no-install-recommends libreoffice-impress poppler-utils fontconfig && rm -rf /var/lib/apt/lists/*

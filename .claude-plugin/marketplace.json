@@ -1,0 +1,8 @@
+{
+  "name": "slide-deck-skill",
+  "description": "Premium talk decks with custom illustrations and an editable PowerPoint, made with Claude Code.",
+  "owner": { "name": "Slide Deck" },
+  "plugins": [
+    { "name": "slide-deck", "source": "./", "description": "Premium talk decks made in code, exported to an editable PowerPoint, PDF and speaker script." }
+  ]
+}

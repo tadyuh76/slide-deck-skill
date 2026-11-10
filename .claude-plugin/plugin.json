@@ -1,0 +1,9 @@
+{
+  "name": "slide-deck",
+  "displayName": "Slide Deck",
+  "description": "Premium talk decks made in code: custom pseudo-3D illustrations in one colour family, plain-language text, a different composition on every slide, and an editable PowerPoint, PDF and speaker script.",
+  "homepage": "https://github.com/tadyuh76/slide-deck-skill",
+  "repository": "https://github.com/tadyuh76/slide-deck-skill",
+  "license": "MIT",
+  "keywords": ["slides", "presentation", "pptx", "powerpoint", "deck", "illustration", "react", "skill"]
+}
